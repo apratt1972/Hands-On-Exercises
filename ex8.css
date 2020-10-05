@@ -1,10 +1,10 @@
-body {background-color: white; color: #000099;
+body {background-color: black; color: white;
       font-family: Arial, Helvetica, sans-serif; }
       
 a:link  {background-color: #CCCCCC;}
 
 h1 { font-family: "Times New Roman"; 
-    color: black; }
+    color: #CCCCCC; }
 
 .favorite {color: red;
           font-style: italic; }
